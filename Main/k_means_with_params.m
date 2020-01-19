@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Program For K-Means Clustering (Vector Quantization)               %
-% Program Written By Sharad K. Gupta, Srishti Gautam, Kanhaiya Kumar %
+% Program Written By Sharad K. Gupta                                 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [assgn_cluster,mu,centroid_dist,centroid_X_dist,centroid_Xi_dist ]=k_means_with_params(X,clusters)
