@@ -1,8 +1,8 @@
 %PLOTTING DC PLOT, PREDEFINED CALINSKI AND SILHOUETTE FOR SPARSE AFFINITY MATRIX 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%          Program For Sparse Spectral Clustering                    %
-%                Written By Vanshika Gupta                           %
+%             Program For Sparse Spectral Clustering                    %
+%          Written By Vanshika Gupta, Sharad Kumar Gupta                %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %fetchig data
