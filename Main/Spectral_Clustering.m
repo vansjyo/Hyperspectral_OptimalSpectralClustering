@@ -2,8 +2,8 @@
 %AFFINITY MATRIX(TANIMOTO/COSINE/PEARSON/HYBRID/SAM)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%             Program For Spectral Clustering                        %
-%                Written By Vanshika Gupta                           %
+%                 Program For Spectral Clustering                    %
+%           Written By Vanshika Gupta, Sharad Kumar Gupta            %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
