@@ -15,7 +15,7 @@ Compute the optimal number of bands essential for dimensionaity reduction
 - Clone/Download_Zip the repository
 - Open MATLAB and connect to the folder **Similarity_Matrices**
 - Modify the code for your input hyperspectral image
-- Run any of the codes for computing the similaity measure
+- Run any of the codes in the folder for computing the similarity/Adjacency matrix.
 - Now connect to the folder **Main**
 - Modify the imputs accordingly and run the `Sparse_SpectralClustering.m` or `Spectral_Clustering.m` 
 
