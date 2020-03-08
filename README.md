@@ -17,5 +17,5 @@ Compute the optimal number of bands essential for dimensionaity reduction
 - Modify the code for your input hyperspectral image
 - Run any of the codes in the folder for computing the similarity/Adjacency matrix.
 - Now connect to the folder **Main**
-- Modify the imputs accordingly and run the `Sparse_SpectralClustering.m` or `Spectral_Clustering.m` 
+- Modify the inputs accordingly and run `Sparse_SpectralClustering.m` or `Spectral_Clustering.m` 
 
