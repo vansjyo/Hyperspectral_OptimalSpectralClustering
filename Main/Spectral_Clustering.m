@@ -46,7 +46,7 @@ init = mean30(nClusters , bands ,L_norm );
 meanSilhouette(bands, L_norm);
 
 %computing cluster-wise silhouette
-clusterSilhouette(bands, L_norm, nClusters ,init );
+clusterSilhouette(L_norm, nClusters ,init );
 
 %calinski index plot
 eva_values = zeros(30,1);
